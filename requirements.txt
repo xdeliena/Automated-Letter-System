@@ -1,0 +1,9 @@
+gradio
+python-docx
+pandas
+openpyxl 
+docx2pdf
+pypandoc
+supabase
+transformers
+torch
