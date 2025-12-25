@@ -17,7 +17,7 @@ Malaysia Institute of Transport (MITRANS).
 
 This project was deployed in HuggingFace Space and integrated with Supabase for templates and data storage.
 
-On Supabase:
+# 💾 On Supabase
 ---
 templates: id, filename, file_url, uploaded_at
 data: id, filename, file_url, uploaded_at
